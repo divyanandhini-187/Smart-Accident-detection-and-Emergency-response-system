@@ -264,7 +264,7 @@ Steps:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**DIVYA NANDHINI .V**
 
 ---
 
