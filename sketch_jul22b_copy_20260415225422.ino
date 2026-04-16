@@ -12,9 +12,9 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 // WiFi
-const char* ssid = "ESPTEST";
-const char* password = "12345678";
-String server = "http://10.131.23.159:5000/data";
+const char* ssid = "Wifi_Name";
+const char* password = "Wifi_Password";
+String server = "Your Server_Address";
 
 WiFiClient client;
 
